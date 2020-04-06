@@ -1,6 +1,6 @@
 # Arsharaj Chauhan
 
-[Arsharaj Chauhan](https://arsharajchauhan.github.io)
+[Arsharaj Chauhan](https://arsharaj.github.io)
 
 I am **Arsharaj Chauhan**, a computer science undergrad.
 
